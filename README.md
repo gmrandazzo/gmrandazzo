@@ -22,8 +22,6 @@ During my free time I enjoy staying with my family, my children, playing french 
 [Here](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en) you can find my scientific papers.
 
 
-What would I like to see in this world? 
-"Race the standard of living around the world without increasing our impact in that world." cit David Attenborough
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gmrandazzo.gmrandazzo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
