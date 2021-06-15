@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm (trying to be) a cheminformatics data scientist working at [@Roche](https://github.com/Roche) as post doctorate scientist. 
+I'm (trying to be) a cheminformatics data scientist working at [@Endogena](http://endogena.com/) as head of AI and Cheminformatics. 
 I have been doing cheminformatic development since 2008 in C/C++ and python.
 
 I'm a linux/unix enthusiast and an opensource supporter.
@@ -17,7 +17,7 @@ To name few of my open-source contributions:
 * [DynMetId](https://github.com/gmrandazzo/DynMetId) a metabolite tool identification that power the web engine [Dynasti](https://dynasti.vital-it.ch/)
 * and so on... 
 
-During my free time I enjoy staying with my family, my children, playing french horn, hacking my old computers and actively supporting the open-source community as I can: [Linux](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r), [Mindguard](https://github.com/asbestomolesto/mindguard), ... 
+During my free time I enjoy staying with my family, my childrens, playing french horn, rolling with my inline skates, hacking my old computers and actively supporting the open-source community as I can: [Linux](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r), [Mindguard](https://github.com/asbestomolesto/mindguard), ... 
 
 [Here](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en) you can find my scientific papers.
 
