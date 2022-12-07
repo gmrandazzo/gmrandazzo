@@ -19,6 +19,13 @@ To name a few of my open-source contributions:
 * [DynMetId](https://github.com/gmrandazzo/DynMetId) a metabolite tool identification that power the web engine [Dynasti](https://dynasti.vital-it.ch/)
 * and so on... 
 
+| Things I'm  cooking... live |                         |
+| --------------------------- |:-----------------------:|
+|![Alt Text](https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_Conformer_Aligment.gif)|![Alt Text](https://raw.githubusercontent.com/gmrandazzo/MolecularFramework/master/doc/files/ICP_VDWShape_Aligmnent.gif)|
+
+
+
+
 During my free time, I enjoy staying with my family, playing french horn, rolling with my inline skates, hacking my old computers, and actively supporting the open-source community as I can: [Linux](https://lore.kernel.org/linux-wireless/20200405220659.45621-1-chunkeey@gmail.com/#r), [Mindguard](https://github.com/asbestomolesto/mindguard), ... 
 
 [Here](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en) you can find my scientific papers.
