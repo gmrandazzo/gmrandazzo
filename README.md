@@ -31,13 +31,14 @@ During my free time, I enjoy staying with my family, playing french horn, rollin
 [Here](https://scholar.google.com/citations?user=3JSLI6MAAAAJ&hl=en) you can find my scientific papers.
 
 
-### Contact
+### Contacts
 
-📫 email: gmrandazzo AT gmail DOT com
+📫 e-mail: gmrandazzo AT gmail DOT com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gmrandazzo/)
 
-🧪 [google scholar](https://scholar.google.com/citations?user=wVq-c3IAAAAJ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" width="100px"/>](https://scholar.google.com/citations?user=wVq-c3IAAAAJ)
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gmrandazzo.gmrandazzo)
