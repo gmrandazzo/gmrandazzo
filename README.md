@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm (trying to be) a cheminformatics data scientist working at [@Endogena](http://endogena.com/) as head of AI and Cheminformatics. 
-I have been doing cheminformatic development since 2008 in C/C++ and python.
+I'm (trying to be) a cheminformatics data scientist working at [@Chemify](http://chemify.io/).
+I have been doing cheminformatic development since 2008, crafting C, C++, Python, and PHP (recently Go and Rust) spells to analyze, visualize, and predict molecular properties/activities, turning data into discoveries.
 
 I'm a Linux/Unix enthusiast and an open-source supporter.
 My favorite Linux distributions are Gentoo, Debian, Fedora, and my preferred desktop environment is KDE plasma.
