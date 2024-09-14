@@ -12,7 +12,8 @@ To name a few of my open-source contributions:
 * [DeepMolecularNetwork](https://github.com/gmrandazzo/DeepMolecularNetwork) some command line software to build deep learning models and make predictions using tabular values, images, smiles string and voxel molecular representations
 * [QStudioMetrics](https://github.com/gmrandazzo/QStudioMetrics) software for doing multivariate statistical analysis (PCA/PLS)
 * [PyLSS](https://github.com/gmrandazzo/PyLSS) software that implements the [LSS theory developed by Dolan and Snyder](https://www.chromatographytoday.com/article/bioanalytical/40/imre_molnr_hans-jrgen_rieger_rbert_kormny/chromatography_modelling_in_high_performance_liquid_chromatography_method_development/1387) to run liquid chromatography modeling
-* [MolecularFramework](https://github.com/gmrandazzo/MolecularFramework) a C/C++ library/tool to run molecular modeling and cheminformatic QSAR/QSPR modeling
+* [PAutoDock](https://github.com/gmrandazzo/PAutoDock) is KISS-friendly software that runs large-scale docking projects using Auto Dock and Vina. The software will dock multiple ligands in a multitasking way within the same receptor.
+* [MolecularFramework](https://github.com/gmrandazzo/MolecularFramework) a C/C++ library/tool to run molecular modeling and cheminformatic QSAR/QSPR modeling.
 * [libscientific](https://github.com/gmrandazzo/libscientific) a C library that implements the multivariate analysis algorithms and also other numerical algorithms (Python bindings available).
 * [ChemSpaceTracker](https://github.com/gmrandazzo/ChemSpaceTracker) a tool to build and visualize chemical spaces using principal component analysis and molecular descriptors
 * [MsMsSpectralAnalysis](https://github.com/gmrandazzo/MsMsSpectralAnalysis) a tool to analyze and compare MS/MS fragmentation spectra with databases 
